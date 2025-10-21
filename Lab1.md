@@ -6,5 +6,5 @@ RULES OF ENGAGEMENT
 - Out-of-scope: production DBs, employee endpoints
 - Test hours: 2025-10-21 09:00 — 2025-10-22 17:00 UTC
 - Allowed tests: passive recon, authenticated scans, web app testing (no social engineering)
-- Emergency POC: ops-TeamDrnice@yahoo.com, +234-XXXXXXXX
+- Emergency POC: ops-TeamDrnice@yahoo.com, +1-(285)345-6888
 - Escalation: Production DBs
