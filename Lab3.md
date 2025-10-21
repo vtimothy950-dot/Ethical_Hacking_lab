@@ -1,4 +1,8 @@
+
+
+
 # 🧾 GitHub.com Domain Information Summary
+<img width="457" height="481" alt="Screenshot 2025-10-22 001550" src="https://github.com/user-attachments/assets/2c45f0f3-06ad-4dc8-b6b3-32155b33449b" />
 
 ## 📄 Domain Overview
 
